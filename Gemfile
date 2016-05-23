@@ -172,7 +172,7 @@ gem 'fast_stack', require: false, platform: [:mri_20]
 gem 'flamegraph', require: false
 gem 'rack-mini-profiler', require: false
 
-gem 'unicorn', require: false
+# gem 'unicorn', require: false
 gem 'puma', require: false
 gem 'rbtrace', require: false, platform: :mri
 
